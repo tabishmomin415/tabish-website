@@ -45,5 +45,3 @@ Screenshots
 ![](https://github.com/tabishmomin415/E-Commerce-Website/blob/main/Demo_look/Web_look_10.PNG)
 
 
-
-
