@@ -45,3 +45,17 @@ Screenshots
 ![](https://github.com/tabishmomin415/tabish-website/blob/main/Demo_look/Web_look_10.PNG)
 
 
+Primary Azure Technology: Static Web Apps
+
+Other Azure Technologies: HTML, CSS, JS, Bootstrap IDE: VS-Code
+
+Azure Static Web Apps:
+1)Web hosting for static content like HTML, CSS, JavaScript, and images.
+2)Integrated API support provided by Azure Functions with the option to link an existing Azure Functions app using a standard account.
+3)First-class GitHub and Azure DevOps integration where repository changes trigger builds and deployments.
+4)Globally distributed static content, putting content closer to your users.
+5)Free SSL certificates, which are automatically renewed.
+6)Custom domains to provide branded customizations to your app.
+7)Seamless security model with a reverse-proxy when calling APIs, which requires no CORS configuration.
+8)Authentication provider integrations with Azure Active Directory, GitHub, and Twitter.
+9)Customizable authorization role definition and assignments.
