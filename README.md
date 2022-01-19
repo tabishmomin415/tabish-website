@@ -69,4 +69,4 @@ Key features Azure Static Web Apps:
 
 9)Customizable authorization role definition and assignments.
 
-Project Demo URL:
+Project Demo URL: https://lemon-beach-031bc5f10.1.azurestaticapps.net/
