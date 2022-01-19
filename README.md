@@ -15,33 +15,33 @@ About
 
 Screenshots
 
-![](https://github.com/tabishmomin415/E-Commerce-Website/blob/main/Demo_look/Web_look_1.PNG)
+![](https://github.com/tabishmomin415/tabish-website/blob/main/Demo_look/Web_look_1.PNG)
 
 
-![](https://github.com/tabishmomin415/E-Commerce-Website/blob/main/Demo_look/Web_look_2.PNG)
+![](https://github.com/tabishmomin415/tabish-website/blob/main/Demo_look/Web_look_2.PNG)
 
 
-![](https://github.com/tabishmomin415/E-Commerce-Website/blob/main/Demo_look/Web_look_3.PNG)
+![](https://github.com/tabishmomin415/tabish-website/blob/main/Demo_look/Web_look_3.PNG)
 
 
-![](https://github.com/tabishmomin415/E-Commerce-Website/blob/main/Demo_look/Web_look_4.PNG)
+![](https://github.com/tabishmomin415/tabish-website/blob/main/Demo_look/Web_look_4.PNG)
 
 
-![](https://github.com/tabishmomin415/E-Commerce-Website/blob/main/Demo_look/Web_look_5.PNG)
+![](https://github.com/tabishmomin415/tabish-website/blob/main/Demo_look/Web_look_5.PNG)
 
 
-![](https://github.com/tabishmomin415/E-Commerce-Website/blob/main/Demo_look/Web_look_6.PNG)
+![](https://github.com/tabishmomin415/tabish-website/blob/main/Demo_look/Web_look_6.PNG)
 
 
-![](https://github.com/tabishmomin415/E-Commerce-Website/blob/main/Demo_look/Web_look_7.PNG)
+![](https://github.com/tabishmomin415/tabish-website/blob/main/Demo_look/Web_look_7.PNG)
 
 
-![](https://github.com/tabishmomin415/E-Commerce-Website/blob/main/Demo_look/Web_look_8.PNG)
+![](https://github.com/tabishmomin415/tabish-website/blob/main/Demo_look/Web_look_8.PNG)
 
 
-![](https://github.com/tabishmomin415/E-Commerce-Website/blob/main/Demo_look/Web_look_9.PNG)
+![](https://github.com/tabishmomin415/tabish-website/blob/main/Demo_look/Web_look_9.PNG)
 
 
-![](https://github.com/tabishmomin415/E-Commerce-Website/blob/main/Demo_look/Web_look_10.PNG)
+![](https://github.com/tabishmomin415/tabish-website/blob/main/Demo_look/Web_look_10.PNG)
 
 
