@@ -49,7 +49,7 @@ Primary Azure Technology: Static Web Apps
 
 Other Azure Technologies: HTML, CSS, JS, Bootstrap IDE: VS-Code
 
-Azure Static Web Apps:
+Key features Azure Static Web Apps:
 
 1)Web hosting for static content like HTML, CSS, JavaScript, and images.
 
@@ -68,3 +68,5 @@ Azure Static Web Apps:
 8)Authentication provider integrations with Azure Active Directory, GitHub, and Twitter.
 
 9)Customizable authorization role definition and assignments.
+
+Project Demo URL:
